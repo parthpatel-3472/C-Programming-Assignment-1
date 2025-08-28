@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main() {
+int L = 5;
+printf("Area = %d\n", L * L);
+printf("Perimeter = %d\n", 4 * L);
+return 0;
+}
