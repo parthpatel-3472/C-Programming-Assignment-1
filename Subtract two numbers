@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main() {
+int a, b, Subtract;
+printf("Enter two numbers: ");
+scanf("%d %d", &a, &b);
+Subtract = a - b;
+printf("Subtract = %d\n",Subtract);
+return 0;
+}
