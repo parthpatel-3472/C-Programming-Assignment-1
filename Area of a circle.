@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main() {
+int R = 7;
+printf("Area = %.2f\n", (22.0 / 7) * R * R);
+return 0;
+}
