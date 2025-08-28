@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main() {
+int a, b, Multiply;
+printf("Enter two numbers: ");
+scanf("%d %d", &a, &b);
+Multiply = a * b;
+printf(" Multiply = %d\n", Multiply);
+return 0;
+}
