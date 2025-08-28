@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main() {
+float gross = 5000;
+float net = gross - (0.10 * gross);
+printf("Net Sales = %.2f\n", net);
+return 0;
+}
