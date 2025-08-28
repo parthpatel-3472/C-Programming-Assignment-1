@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main() {
+float dollars = 5, rupees, pounds;
+pounds = dollars * 0.75;
+printf("Pounds = %.2f\n", pounds);
+return 0;
+}
