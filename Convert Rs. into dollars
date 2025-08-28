@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main() {
+float rupees = 500;
+printf("Dollars = %.2f\n", rupees / 48);
+return 0;
+}
