@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main() {
+int minutes = 150;
+printf("Hours = %d\n", minutes / 60);
+return 0;
+}
